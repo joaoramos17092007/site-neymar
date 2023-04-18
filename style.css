@@ -9,6 +9,8 @@
   background-color: rgb(83, 153, 180);
   display: flex;
   justify-content: space-around;
+  align-items: center;
+  padding: 24px 0;
 }
 
 .cabeçalho-imagem{
