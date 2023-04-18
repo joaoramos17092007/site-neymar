@@ -1,4 +1,4 @@
-body{
+.cabeçalho{
   background-color: rgb(83, 153, 180);
   display: flex;
   justify-content: space-around;
@@ -6,4 +6,7 @@ body{
 
 .cabeçalho-imagem{
   width:70% ;
+}
+.cabeçalho-lista-item{
+  display: inline-block;
 }
