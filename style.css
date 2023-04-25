@@ -27,7 +27,7 @@
 }
 
 .loja{
-  background-image: linear-gradient(#8dd0eb);
+  background-image: linear-gradient(rgb(117, 157, 209); #8dd0eb);
   color: rgb(0, 0, 0);
   display: flex;
   justify-content: center;
